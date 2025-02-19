@@ -12,3 +12,16 @@ wavenet_vocoder/egs/exp/intermediate/
 wavenet_vocoder/egs/tensorboard/
 voice_conversion/data/
 wavenet_vocoder/data/
+out_infer/
+out_train/
+output/
+output2/
+pablo/
+tete/
+vctk1/
+vctk3/
+saved_models/
+rave/
+pix2pix/
+results/
+flickr/
